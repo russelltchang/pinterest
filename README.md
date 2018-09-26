@@ -1,6 +1,6 @@
 # Pinterest
 
-Pinterest Clone is my solution to a freeCodeCamp full stack project challenge, Build a Pinterest Clone. It allows users upload images and favorite images uploaded by other users. The app's responsive design delivers a clear and professional layout when accessed from all type of devices.
+Pinterest Clone is my solution to a freeCodeCamp full stack project challenge, Build a Pinterest Clone. It allows users to upload images and favorite images uploaded by other users. The app's responsive design delivers a clear and professional layout when accessed from all type of devices.
 
 See it in action: https://evening-tundra-91223.herokuapp.com/.
 
