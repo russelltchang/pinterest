@@ -1,0 +1,53 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico|Roboto:300);
+body {
+  margin: 0 auto; /* extends AppBar fully */
+}
+
+#container {
+  display: flex;
+  justify-content: center;    
+  align-items: center;
+  height: 100%;
+}
+
+.link {
+  margin-left: 3vw;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.actionIcon {
+  color: white;
+}
+
+i {
+  cursor: pointer;
+  vertical-align: bottom;
+}
+
+.gridlist {
+  width: 80vw;
+  margin-bottom: 5vh !important;
+  margin-top: 5vh !important;
+}
+
+#upload {
+  display: flex;
+  justify-content: center;    
+  align-items: center;
+  border-radius: 8px;
+  margin-bottom: 5vh;
+  margin-top: 20vh;
+  background-color: #f50057;
+  height: 30vh;
+  width: 20vw;
+}
+
+input {
+  width: 15vw;
+  margin-top: 3vh;
+  border-radius: 4px;
+}
