@@ -1,5 +1,7 @@
 # Pinterest
 
+Unauthorized users need to have a Github account mandatorily.
+
 Pinterest Clone is my solution to a freeCodeCamp full stack project challenge, Build a Pinterest Clone. It allows users to upload images and favorite images uploaded by other users. 
 
 See it in action: https://evening-tundra-91223.herokuapp.com/.
